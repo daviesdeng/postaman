@@ -1,2 +1,2 @@
-# postaman
+# postman
 postman-note
